@@ -1,0 +1,12 @@
+.countries_container{
+    display: grid;
+    grid-template-columns:repeat(3,1fr) ;
+    gap:10px ;
+}
+.button{
+    background-color: rgb(157, 0, 255);
+border: 2px solid rgb(43, 226, 70);
+margin: 5px;
+padding: 5px;
+border-radius: 5px;
+}
